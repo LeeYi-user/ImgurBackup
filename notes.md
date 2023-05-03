@@ -426,7 +426,7 @@ pipe
 
 > ![](imgur/mwYtS2y.png)
 
-## 第八週
+## 第十週
 
 ![](imgur/QnmvLQ2.png)
 
@@ -491,7 +491,7 @@ dd
 
 ![](imgur/KCEN5DK.png)
 
-## 第九週
+## 第十一週
 
 du vs df
 
@@ -571,3 +571,64 @@ https://blog.gtwang.org/linux/unix-linux-find-command-examples/
 ![](imgur/Gnpr3ed.png)
 
 ![](imgur/FGVEfQU.png)
+
+## 第十二週
+
+### 通配符 / 正則表達式
+
+> https://bpdocs.blueprism.com/bp-7-1/zh-hans/helpWildcardsAndRegex.htm
+> 
+> 通配符: 用來找檔案
+> 正則表達式: 用來找檔案裡面的內容
+
+### passwd
+
+> ![](imgur/208o9Lb.png)
+
+### grep
+> https://blog.gtwang.org/linux/linux-grep-command-tutorial-examples
+> 
+> ![](imgur/dF50K2Z.png)
+> 
+> ![](imgur/mT3a7Ke.png)
+> 
+> ![](imgur/79Vg563.png)
+> 
+> ![](imgur/zO1epV7.png)
+> 
+> ![](imgur/RboNYTm.png)
+> 
+> ![](imgur/8TPtyaK.png)
+> 
+> ![](imgur/kOHWcAm.png)
+> 
+> ![](imgur/kwmWxLR.png)
+> 
+> ![](imgur/8EqGJBg.png)
+> 
+> ![](imgur/Qy7ygwB.png)
+> 
+> ![](imgur/eCJzAID.png)
+> 
+> ![](imgur/thyhdJf.png)
+> 
+> ![](imgur/3Dxv1K1.png)
+> 
+> ![](imgur/p28zI9y.png)
+> 
+> ![](imgur/xQQH4zL.png)
+> 
+> ![](imgur/Oooa83a.png)
+> 
+> ![](imgur/ieI9ai1.png)
+> 
+> ![](imgur/CvvM5LA.png)
+
+### Linux三劍客
+
+> awk / grep / sed
+
+### tty
+
+> 主設備號: 不同設備的編號
+> 次設備號: 相同的裝置，紀錄第幾個
